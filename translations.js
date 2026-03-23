@@ -47,7 +47,7 @@ window.GCT_TRANSLATIONS = {
   "Technical development from concept to field-verified solution — including CAD design, FEM analysis, and pressure testing.": "Technische Entwicklung vom Konzept bis zur felderprobten Lösung — einschließlich CAD-Design, FEM-Analyse und Druckprüfung.",
 
   // About Section
-  "Quality „Made in Germany"": "Qualität „Made in Germany"",
+  "Quality „Made in Germany\\\"": "Qualität „Made in Germany\\\"",
   "Founded in 2019, German Completion Tools GmbH stands for precision and reliability in well completion. With our new location in Eydelstedt, we offer full-service solutions ranging from design to on-site installation.": "Gegründet 2019 steht die German Completion Tools GmbH für Präzision und Zuverlässigkeit in der Bohrlochkomplettierung. Mit unserem neuen Standort in Eydelstedt bieten wir Full-Service-Lösungen von der Konstruktion bis zur Vor-Ort-Installation.",
   "Safety": "Sicherheit",
   "Certified in accordance with ISO 9001:2015 and SCCP.": "Zertifiziert nach ISO 9001:2015 und SCCP.",
